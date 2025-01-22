@@ -1,0 +1,11 @@
+.select-days{
+    display: flex;
+    justify-content: flex-start;
+
+   
+    padding: 1rem;
+}
+
+.price-change{
+    padding-right: 1rem;
+}
